@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.2.1)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - TRVideoView (0.1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher (~> 5.0)
+  - TRVideoView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - TRVideoView
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  TRVideoView: dc9617f61f7d3b207b2a5ad8afe401ef7c03e51e
+
+PODFILE CHECKSUM: 48b2ff7f5c5a119428fa1ebed1462f17836b3edf
+
+COCOAPODS: 1.10.0
